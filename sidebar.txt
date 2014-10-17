@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nms:home|Door43 (nms)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nms|d43-nms repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nms/archive/master.zip|d43-nms.zip]]
+
+**Recent Changes**
+{{changes>ns = nms}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nms|Ethnologue data]]
+
